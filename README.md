@@ -1,2 +1,2 @@
 # cipher-safe
-Cifer-Safe security software
+Cipher-Safe security software
