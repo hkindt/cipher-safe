@@ -1,0 +1,23 @@
+{
+    "name": "entana/cipher-safe",
+    "type": "library",
+    "description": "Security and data encryption",
+    "homepage": "https://api.cipher-safe.com",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Harm Kindt",
+            "email": "harm@entana.nl",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"entana\\cs_identify\\": "src/"}
+    },
+    "require": {
+        "php": ">7.4", 
+        "entana/cs_identify": "7.0.*"
+    }
+}
+ 
